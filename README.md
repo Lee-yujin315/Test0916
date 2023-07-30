@@ -1,29 +1,26 @@
-# SpringBoot-Project-MEGABOX
-스프링 부트 + JSP 파싱_영화 예매 사이트
+# ChatGpt-Shoes-Review
+ChatGpt
 
 
 ## 🖥️ 프로젝트 소개
-MEGA BOX를 참고하여 만든 영화 예매 사이트입니다.
+ChatGpt를 활용하여 블로그에서 신발 리뷰를 크롤링하여 보여주고 사용자들의 실제 후기를 볼 수 있는 웹사이트입니다
 <br>
 
 ## 🕰️ 개발 기간
-* 22.04.26일 - 22.05.24일
+* 23.03.07 - 23.08.30
 
 ### 🧑‍🤝‍🧑 맴버구성
- - 팀장  : 이윤재 - 영화 예매, 영화 업로드, Database Script 제작, 통합 및 형상관리
- - 팀원1 : 채현우 - 로그인, 회원가입, ID찾기, PW찾기, 마이 페이지,메인 페이지, 통합 및 형상관리, PPT제작, 발표
- - 팀원2 : 이종원 - 메인 페이지, 메인 CSS
- - 팀원3 : 전성덕 - 1대1 문의 게시판(CRUD), 공지사항 게시판(CRUD)
- - 팀원4 : 김창훈 - 1대1 문의 게시판(CRUD), 공지사항 게시판(CRUD)
- - 팀원5 : 김성재 - 로그인, 회원가입, ID찾기, PW찾기
+ - 팀장  : 이찬주 - 리뷰 DB 구현, 관련 이슈, 블로그 리뷰 크롤링 및 요약, 통합 및 형상관리
+ - 백엔드 : 윤수빈 - 로그인, 회원가입, 마이 페이지,  통합 및 형상관리
+ - 프론트엔드 : 조은영 - 메인 페이지, 메인 CSS
+ - 디자인 : 이유진 - 웹디자인, README 작성, 신발데이터 수집, PPT 제작
 
 ### ⚙️ 개발 환경
-- `Java 8`
-- `JDK 1.8.0`
-- **IDE** : STS 3.9
-- **Framework** : Springboot(2.x)
-- **Database** : Oracle DB(11xe)
-- **ORM** : Mybatis
+- ㅇ
+- ㅇ
+- ㅇ
+- ㅇ
+
 
 ## 📌 주요 기능
 #### 로그인 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
